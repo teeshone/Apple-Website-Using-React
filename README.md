@@ -1,1 +1,1 @@
-This is Apple replica project with React  
+This is Apple replica project with React.JS  
